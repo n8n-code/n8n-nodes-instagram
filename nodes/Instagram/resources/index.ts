@@ -1,0 +1,1 @@
+export { relationshipsDescription } from './relationships';
